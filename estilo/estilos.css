@@ -17,7 +17,12 @@ p{
     justify-items: center;
 }
 .cabecera{
-    background-color: rgb(21, 21, 128);
+    background-color: darkblue;
     color: ffffff;
-    font-size: 40  ;
+    font-size: 40px ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: white;
 }
