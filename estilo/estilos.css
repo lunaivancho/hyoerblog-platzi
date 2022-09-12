@@ -16,3 +16,8 @@ p{
     border-radius: 25px;
     justify-items: center;
 }
+.cabecera{
+    background-color: rgb(21, 21, 128);
+    color: ffffff;
+    font-size: 40  ;
+}
